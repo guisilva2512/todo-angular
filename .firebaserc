@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todos-2baef": {
+      "hosting": {
+        "Todo": [
+          "todos-2baef"
+        ]
+      }
+    }
+  }
+}
